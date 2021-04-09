@@ -25,6 +25,10 @@ class Ab {
         $this->db_felhnev = "root";
         $this->db_jelszo = "";
         $this->db_nev = "tervezo";
+//        $this->db_szerver = "tanulo9.szf1a.oktatas.szamalk-szalezi.hu";
+//        $this->db_felhnev = "c1_tanulo9szf1a";
+//        $this->db_jelszo = "_tanulo9szf1a";
+//        $this->db_nev = "c1ABtanulo9szf1a";
         $this->kapcsolat();
     }
 
